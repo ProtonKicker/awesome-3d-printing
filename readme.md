@@ -121,6 +121,7 @@ A curated list of awesome 3D printing resources.
 - [Autodesk Inventor]
 - [Blender] - 3D modeling and sculpting app. (open source)
 - [build123d] - 3D CAD design software for python programmers. (open source)
+- [DeclaraCAD] - 3D CAD tool using Python. (open source)
 - [FreeCAD]
 - [OpenSCAD]
 - [Onshape]
@@ -137,6 +138,7 @@ A curated list of awesome 3D printing resources.
 [Autodesk Inventor]: https://www.autodesk.com/products/inventor/
 [Blender]: https://www.blender.org/
 [build123d]: https://github.com/gumyr/build123d
+[DeclaraCAD]: https://declaracad.com
 [FreeCAD]: https://www.freecad.org/
 [Onshape]: https://www.onshape.com/
 [OpenSCAD]: https://openscad.org
@@ -150,10 +152,14 @@ A curated list of awesome 3D printing resources.
 
 ## Control Software
 
+- [Bambuddy] - Self-hosted print management tool for Bambu Lab printers with real-time monitoring, print archiving, scheduling, and notifications.
+- [Kiln] - MCP server for AI agents to control 3D printers.
 - [OctoPrint] - Web interface for 3D printer.
 - [PrintRun] - Pure Python 3d printing host software.
 - [Repetier] - Place, slice, preview and print.
 
+[Bambuddy]: https://bambuddy.cool
+[Kiln]: https://github.com/codeofaxel/Kiln
 [OctoPrint]: https://octoprint.org
 [PrintRun]: https://github.com/kliment/Printrun
 [Repetier]: https://www.repetier.com/
@@ -296,6 +302,7 @@ Independent:
 - [Cults] - Find, share and sell 3D print files.
 - [Free3D] - Free and premium 3D models.
 - [GrabCAD]
+- [MakerRepo] - Git-based platform to share and collaborate on parametric CAD models.
 - [MyMiniFactory] - 3D print files for tabletop gaming, toys, gadgets.
 - [Pinshape] - Find, share and sell 3D print files.
 - [PrintPal] - Model-sharing + marketplace + AI tool + manufacturing platform.
@@ -324,6 +331,7 @@ Self-Hostable:
 [MakeItReal]: https://makeitreal.eufymake.com/
 [MakerRoad]: https://www.makeroad.com/
 [Makerworld]: https://makerworld.com/en
+[MakerRepo]: https://makerrepo.com
 [Manyfold]: https://github.com/manyfold3d/manyfold
 [MyMiniFactory]: https://www.myminifactory.com/
 [NexPrint]: https://www.nexprint.com/
@@ -345,19 +353,26 @@ Self-Hostable:
 - [3D Box Generator] - Webapp to generate STL files for boxes of custom size.
 - [BotQueue] - Control your 3D printers over the internet.
 - [Clara.io] - Cloud-based 3D modeling, animation and rendering.
+- [FilamentProfilesHub](https://filamentprofileshub.com) - Database of community-verified print settings (nozzle temp, bed temp, speed, retraction) for any printer + filament combination.
 - [Filameter] - Filament Inventory Management.
+- [Filwiz] - AI-powered filament profile generator from TDS, multi-slicer export, inventory tracking, and print troubleshooting.
 - [gcode.ws] - Gcode analyzer.
 - [HelloTriangle] - Cloud-based 3D modeling using Python.
 - [OctoEverywhere] - Remotely monitor your OctoPrint.
+- [Polyvia3D] - Browser-based 3D file converter, viewer, and repair tool supporting OBJ, STL, GLB, PLY, and 3MF. Runs locally via WebAssembly.
 - [Vectary] - Browser-based 3D modeling.
+- [Vectiler](https://www.halfmaps.io/3d-map-exporter) - Online tool to generate 3D printable map and terrain models from real-world geographic data.
+  
 
 [3D Box Generator]: https://github.com/javisperez/box-stl-generator
 [BotQueue]: https://github.com/Hoektronics/BotQueue
 [Clara.io]: https://clara.io
 [Filameter]: https://filameter.com
+[Filwiz]: https://filwiz.com/
 [gcode.ws]: https://gcode.ws
 [HelloTriangle]: https://www.hellotriangle.io/
 [OctoEverywhere]: https://octoeverywhere.com
+[Polyvia3D]: https://polyvia3d.com
 [Vectary]: https://www.vectary.com/
 
 
@@ -373,6 +388,7 @@ Self-Hostable:
 - [Shapeways]
 - [Vikings] - 3D printing and fulfillment on demand.
 - [DIVO3D] - Washington State 3D printing, 3D design and 3D Scanning with local pickup and national shipping.
+- [Upside Parts] - Greater Boston 3D printing service offering FDM, SLA and SLS with nationwide shipping.
 
 [3D Hubs]: https://www.hubs.com/
 [Beamler]: https://www.beamler.com/
@@ -384,6 +400,7 @@ Self-Hostable:
 [Shapeways]: https://shapeways.com
 [Vikings]: https://3dvikings.com/
 [DIVO3D]: https://divo3d.com
+[Upside Parts]: https://www.upsideparts.com/3d-printing
 
 
 ## Marketplaces
